@@ -17,9 +17,10 @@ h2 {
   margin-bottom: 0px;
 }
 
-h4 {
+.location {
   color: hsl(76, 94%, 57%);
   margin-top: 5px;
+  font-weight: bold;
 }
 
 .container {
