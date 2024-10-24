@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/Screenshot_20231004-135323.png)
+![](./assets/images/Screenshot%20(25).png)
 
 ### Links
 
